@@ -1,0 +1,14 @@
+{
+    "name": "riquececatto/routes-php",
+    "description": "Creating and working a http methods, routes, request/response http",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "RiqueCecatto\\Src\\": "src/"
+        },
+        "files": [
+            "src/helpers/constants.php"
+        ]
+    },
+    "autoload-dev": {}
+}
